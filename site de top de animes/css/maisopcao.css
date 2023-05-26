@@ -1,0 +1,56 @@
+body{
+  background-color: rgb(51, 46, 46);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tema img{
+  width: 100px;
+  border-radius: 50%;
+  border: solid 2px blueviolet;
+  
+}
+.tema{
+ text-align: center;
+  color: antiquewhite;
+}
+.principal{
+  text-align: center;
+  color: antiquewhite;
+}
+
+footer img {
+  
+  width: 20px;
+  height: 20px;
+  text-align: center;
+}
+
+footer {
+ 
+  display: flex;
+  justify-content: center;
+  
+}
+
+footer a {
+  margin: 15px;
+  text-align: center;
+  color: antiquewhite;
+}
+
+footer p {
+  margin-top: 2px;
+  font-size: 12px;
+  
+}
+.paragrafo{
+  text-align: center;
+  color: antiquewhite;
+}
+.final
+{
+  text-align: center;
+  color: antiquewhite;
+}
+a{
+  text-decoration: none;
+}
